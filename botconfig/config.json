@@ -1,30 +1,30 @@
 {
     "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "prefix": "*",
     "ownerIDS": [
-        "442355791412854784"
+        "1187666470990266410"
     ],
-    "fnbr": "GET from: https://fnbr.co",
-    "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "fnbr": "https://fnbr.co",
+    "fortnitetracker": "https://fortnite-api.com",
+    "memer_api": "https://meme-api.com/gimme",
     "status": {
         "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text2": "By: Atrone",
         "type": "PLAYING",
         "url": "https://twitch.tv/milratodiscordbot"
     },
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
+                "host": "http://lavahatry4.techbyte.host/",
+                "port": 3000,
+                "password": "http://naiglava-dash.techbyte.host/"
             }
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "df1ee64dff6e4747a4029416a133baaa",
+        "clientID": "3205aac99ade40cf89ae95e0635022f9"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
